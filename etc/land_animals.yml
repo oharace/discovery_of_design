@@ -1,0 +1,54 @@
+Alligator Blood - Antibiotics:
+  url: alligator_blood_antibiotics
+  image: images/land_animals/alligator.jpg
+Camel Nostril - Water Desalinization:
+  url: camel_nostril_water_desalinization
+  image: images/land_animals/camel.jpg
+Cat's Claw - Safety Thumbtack:
+  url: cat_claw_safety_thumbtack
+  image: images/land_animals/cat.jpg
+Chameleon Tongue - Robotics:
+  url: chameleon_tongue_robotics
+  image: images/land_animals/chameleon.jpg
+Dog - Clothes Dryer:
+  url: dog_clothes_dryer
+  image: images/land_animals/dog_1.jpg
+Dog Paw - Shoes:
+  url: dog_paw_shoes
+  image: images/land_animals/dog_3.jpg
+Gecko - Electronics Printing:
+  url: gecko_electronics_printing
+  image: images/land_animals/gecko_1.jpg
+Lizard Tail - Versatile Robots:
+  url: lizard_tail_versatile_robots
+  image: images/land_animals/lizard.jpg
+Poison Dart Frog - Aircraft De-icing:
+  url: poison_dart_frog_airplane_deicing
+  image: images/land_animals/poison_dart_frog_1.jpg
+Polar Bear - Insulation:
+  url: polar_bear_insulation
+  image: images/land_animals/polar_bear.jpg
+Porcupine Quill - Surgical Staple:
+  url: porcupine_quill_surgical_staple
+  image: images/land_animals/porcupine.jpg
+Rodent Teeth - Saw Blades:
+  url: rodent_teeth_saw_blades
+  image: images/land_animals/rodent.jpg
+Sandfish Lizard - Robotics:
+  url: sandfish_lizard_robotics
+  image: images/land_animals/sandfish_lizard_1.jpg
+Scorpion - Resistant Surfaces:
+  url: scorpion_resistant_surfaces
+  image: images/land_animals/scorpion.jpg
+Snake - Robotics:
+  url: snake_robotics
+  image: images/land_animals/snake.jpg
+Stegosaur Plate - Wind turbine:
+  url: stegosaur_plate_wind_turbine
+  image: images/land_animals/stegosaur.jpg
+Thorny Desert Lizard - Water Collector:
+  url: thorny_desert_lizard_water_collector
+  image: images/land_animals/thorny_desert_lizard_1.jpg
+Tree Frog - Adhesive:
+  url: tree_frog_adhesive
+  image: images/land_animals/tree_frog.jpg

@@ -1,0 +1,84 @@
+Ants - Camera Lens:
+  url: ants_camera_lens
+  image: images/small_creatures/ants_1.jpg
+Ants - Emergencies:
+  url: ants_emergencies
+  image: images/small_creatures/ants_3.jpg
+Ants - Cleaning Tools:
+  url: ants_cleaning_tools
+  image: images/small_creatures/ants_4.jpg
+Caterpillar - Rolling Robot:
+  url: caterpillar_rolling_robot
+  image: images/small_creatures/caterpillar.jpg
+Dragonfly - Surveillance Aircraft:
+  url: dragonfly_surveillance_aircraft
+  image: images/small_creatures/dragonfly.jpg
+Dung Beetle - Night Vision:
+  url: dung_beetle_night_vision
+  image: images/small_creatures/dung_beetle_1.jpg
+Firefly - Improved Light Emitting Diode:
+  url: firefly_improved_light_emitting_diode
+  image: images/small_creatures/firefly_1.jpg
+Fungus - Radiation Protection:
+  url: fungus_radiation_protection
+  image: images/small_creatures/fungus.jpg
+Grasshopper - Plastic:
+  url: grasshopper_plastic
+  image: images/small_creatures/grasshopper.jpg
+Hercules Beetle - Humidity Detector:
+  url: hercules_beetle_humidity_detector
+  image: images/small_creatures/hercules_beetle_1.jpg
+Honeybee - Chemical Detection:
+  url: honeybee_chemical_detection
+  image: images/small_creatures/honeybee_1.jpg
+Locust - Collision Sensor:
+  url: locust_collision_sensor
+  image: images/small_creatures/locust.jpg
+Melanophila Beetle - Infrared Detector:
+  url: melanophila_beetle_infrared_detector
+  image: images/small_creatures/melanophila_beetle_1.jpg
+Morpho Butterfly - Heat Sensor:
+  url: morpho_butterfly_heat_sensor
+  image: images/small_creatures/morpho_butterfly_1.jpg
+Morpho Butterfly - Water Repellent:
+  url: morpho_butterfly_water_repellent
+  image: images/small_creatures/morpho_butterfly_2.jpg
+Moth - Antireflective Coating:
+  url: moth_antireflective_coating
+  image: images/small_creatures/moth.jpg
+Mosquito - Needle:
+  url: mosquito_needle
+  image: images/small_creatures/mosquito.jpg
+Planthopper - Gear Mechanism:
+  url: planthopper_gear_mechanism
+  image: images/small_creatures/planthopper.jpg
+Scarab Beetle - Liquid Crystal Display (LCD):
+  url: scarab_beetle_liquid_crystal_display
+  image: images/small_creatures/scarab_beetle.jpg
+Slime Mold - Highway Design:
+  url: slime_mold_highway_design
+  image: images/small_creatures/slime_mold.jpg
+Spider Glue - Smart Materials:
+  url: spider_glue_smart_materials
+  image: images/small_creatures/spider.jpg
+Spider Web - Artificial Silk:
+  url: spider_web_artificial_silk
+  image: images/small_creatures/spider_web_1.jpg
+Spider Web - Bird-Friendly Glass:
+  url: spider_web_bird_friendly_glass
+  image: images/small_creatures/spider_web_2.jpg
+Termites - Building Techniques:
+  url: termites_building_techniques
+  image: images/small_creatures/termite.jpg
+Velvet Worm - Microfluid Devices:
+  url: velvet_worm_microfluid_devices
+  image: images/small_creatures/velvet_worm.jpg
+Water Bear - Vaccines:
+  url: water_bear_vaccines
+  image: images/small_creatures/water_bear.jpg
+Weevil - Screw and Nut:
+  url: weevil_screw_nut
+  image: images/small_creatures/weevil_1.jpg
+Wood Wasp - Planetary Drill:
+  url: wood_wasp_planetary_drill
+  image: images/small_creatures/wood_wasp.jpg

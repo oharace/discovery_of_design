@@ -1,0 +1,106 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+hr {
+  border-top: 1px solid #ebebeb;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.container {
+  width: 70%;
+}
+
+body > .container {
+  margin-top: 75px;
+}
+
+#homepage-new-book {
+  text-align: center;
+}
+
+.navbar {
+  font-weight: bold;
+}
+
+.navbar-nav {
+  font-size: 14px;
+}
+
+#homepage-new-book img, .about-deyoung img, .contact-us img, .design-example img {
+  max-width: 70%;
+  max-height: 70%;
+  display: block;
+  margin: 0 auto;
+}
+
+#microorganism-list img {
+  max-width: 50px;
+  max-height: 50px;
+}
+
+.design-text, .background-text, .useful-links, #new-book-text, #book-of-the-month-text, .about-deyoung p, #homepage-purpose p, .contact-us, .design-example p {
+  font-size: 18px;
+}
+
+.references p {
+  font-size: 14px;
+  margin-top: 30px;
+}
+
+#homepage-profile a, #homepage-new-book a, #homepage-dotm a, .useful-links a, .books a, .contact-us a, .example a, .references a {
+  color: white;
+}
+
+.example img {
+  max-width: 100%;
+  height: 250px;
+  /*max-height: 100%;
+  min-width: 100%;
+  min-height: 100%;*/
+}
+
+.example {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+#homepage-profile img, #homepage-dotm img {
+  max-height: 100%;
+  max-width: 100%;
+  height: 250px;
+  width: 250px;
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+  margin-bottom: 70px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  border-top: 1px solid transparent;
+  border-color: #ebebeb;
+  line-height: 50px;
+}
+
+footer .container {
+  text-align: center;
+}
+
+.custom-font {
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#new-book-img img {
+  max-width: 100%;
+  max-height: 100%;
+}

@@ -1,0 +1,30 @@
+Eagle Eye - Sunglasses:
+  url: eagle_eye_sunglasses
+  image: images/flight/eagle.jpg
+Flying Fish - Aircraft:
+  url: flying_fish_aircraft
+  image: images/flight/flying_fish_1.jpg
+Hummingbird - Flying Spybot:
+  url: hummingbird_flying_spybot
+  image: images/flight/hummingbird.jpg
+Kingfisher - Bullet Train:
+  url: kingfisher_bullet_train
+  image: images/flight/kingfisher_1.jpg
+Peregrine Falcon - Jet Engine:
+  url: peregrine_falcon_jet_engine
+  image: images/flight/peregrine_falcon_1.jpg
+Pigeon - Unmanned Flight:
+  url: pigeon_unmanned_flight
+  image: images/flight/pigeon.jpg
+Pterosaur - Drone Aircraft:
+  url: pterosaur_drone_aircraft
+  image: images/flight/pterosaur.jpg
+Seagull - Heating and Cooling:
+  url: seagull_heating_cooling
+  image: images/flight/seagull_1.jpg
+Wandering Albatross – Unmanned Aircraft:
+  url: wandering_albatross_unmanned_aircraft
+  image: images/flight/wandering_albatross_1.jpg
+Woodpecker – Shock Absorber:
+  url: woodpecker_shock_absorber
+  image: images/flight/woodpecker_1.jpg
