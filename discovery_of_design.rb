@@ -11,7 +11,7 @@ class DiscoveryOfDesign < Sinatra::Base
   end
 
   get '/design_of_the_month' do
-    haml :'design_examples/underwater/coral_tires'
+    haml :'design_examples/vegetation/eggplant_autonomous_cars', locals: { title: 'Eggplant - Autonomous Cars' }
   end
 
   get '/background' do

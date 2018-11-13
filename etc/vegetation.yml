@@ -7,6 +7,9 @@ Cucumber Vine - Spring:
 Desert Rhubarb - Water Collector:
   url: desert_rhubarb_water_collector
   image: images/vegetation/desert_rhubarb.jpg
+Eggplant - Autonomous Cars:
+  url: eggplant_autonomous_cars
+  image: images/vegetation/eggplant.jpg
 Horsetail - Logarithms:
   url: horsetail_logarithms
   image: images/vegetation/horsetail.jpg
