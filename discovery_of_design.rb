@@ -2,6 +2,11 @@ require 'sinatra'
 require 'yaml'
 
 class DiscoveryOfDesign < Sinatra::Base
+  before do
+    return unless Sinatra::Base.production?
+    redirect request.url.sub('http', 'https') unless request.secure?
+  end
+
   get '/' do
     haml :index
   end
