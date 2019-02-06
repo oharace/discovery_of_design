@@ -58,6 +58,9 @@ Sea Mouse - Nanowire:
 Sea Urchin - Self-sharpening Tools:
   url: sea_urchin_self_sharpening_tools
   image: images/underwater/sea_urchin_1.jpg
+Sea Urchin Spine - Bone Repair:
+  url: sea_urchin_spine_bone_repair
+  image: images/underwater/sea_urchin_spine_bone_repair.jpg
 Shark Skin – Bacteria Barrier:
   url: shark_skin_bacteria_barrier
   image: images/underwater/shark_1.jpg
@@ -75,4 +78,4 @@ Zebrafish – Hearing:
   image: images/underwater/zebrafish.jpg
 Zebrafish - Spine Repair:
   url: zebrafish_spine_repair
-  image: images/underwater/zebrafish.jpg
+  image: images/underwater/zebrafish_2.jpg
