@@ -16,7 +16,7 @@ class DiscoveryOfDesign < Sinatra::Base
   end
 
   get '/design_of_the_month' do
-    haml :'design_examples/underwater/sea_urchin_spine_bone_repair', locals: { title: 'Sea Urchin Spine - Bone Repair' }
+    haml :'design_examples/underwater/seals_submarine_detection', locals: { title: 'Seals - Subarmine Detection' }
   end
 
   get '/background' do
