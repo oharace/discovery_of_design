@@ -31,6 +31,9 @@ Leaf Veins - Power Grid:
 Sugar Beet - Highway De-icer:
   url: sugar_beet_highway_deicer
   image: images/vegetation/sugar_beet_1.jpg
+Sunflower - Solar Collector:
+  url: sunflower_solar_collector
+  image: images/vegetation/sunflower_solar_panel.png
 Transpiration - Energy Production:
   url: transpiration_energy_production
   image: images/vegetation/transpiration_1.jpg

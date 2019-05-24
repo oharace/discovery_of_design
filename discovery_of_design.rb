@@ -16,7 +16,7 @@ class DiscoveryOfDesign < Sinatra::Base
   end
 
   get '/design_of_the_month' do
-    haml :'design_examples/underwater/seals_submarine_detection', locals: { title: 'Seals - Subarmine Detection' }
+    haml :'design_examples/vegetation/sunflower_solar_collector', locals: { title: 'Sunflower - Solar Collector' }
   end
 
   get '/background' do
