@@ -1,6 +1,14 @@
 !!! 5
 %html{lang: 'en'}
   %head
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    %script{ async: true, src: 'https://www.googletagmanager.com/gtag/js?id=UA-140833368-1'}
+    :javascript
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-140833368-1');
+
     %meta{charset: 'utf-8'}
     %title Discovery of Design
     %link{href: 'stylesheets/bootstrap.css', rel: "stylesheet"}
