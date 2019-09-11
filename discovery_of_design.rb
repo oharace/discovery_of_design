@@ -16,7 +16,7 @@ class DiscoveryOfDesign < Sinatra::Base
   end
 
   get '/design_of_the_month' do
-    haml :'design_examples/vegetation/sunflower_solar_collector', locals: { title: 'Sunflower - Solar Collector' }
+    haml :'design_examples/small_creatures/moth_eye_glare_free_screen', locals: { title: 'Moth Eye - Glare-free Screen' }
   end
 
   get '/background' do

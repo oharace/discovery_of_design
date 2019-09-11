@@ -43,12 +43,15 @@ Morpho Butterfly - Heat Sensor:
 Morpho Butterfly - Water Repellent:
   url: morpho_butterfly_water_repellent
   image: images/small_creatures/morpho_butterfly_2.jpg
-Moth - Antireflective Coating:
-  url: moth_antireflective_coating
-  image: images/small_creatures/moth.jpg
 Mosquito - Needle:
   url: mosquito_needle
   image: images/small_creatures/mosquito.jpg
+Moth - Antireflective Coating:
+  url: moth_antireflective_coating
+  image: images/small_creatures/moth.jpg
+Moth Eye - Glare-free Screen:
+  url: moth_eye_glare_free_screen
+  image: images/small_creatures/moth_2.jpg
 Planthopper - Gear Mechanism:
   url: planthopper_gear_mechanism
   image: images/small_creatures/planthopper.jpg
