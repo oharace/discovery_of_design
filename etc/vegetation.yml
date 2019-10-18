@@ -28,6 +28,9 @@ Mimosa Plant Leaf - Flexible Robotics:
 Leaf Veins - Power Grid:
   url: leaf_veins_power_grid
   image: images/vegetation/leaf_veins.jpg
+Pomegranate Seeds - Battery:
+  url: pomegranate_seeds_battery
+  image: images/vegetation/pomegranate.png
 Sugar Beet - Highway De-icer:
   url: sugar_beet_highway_deicer
   image: images/vegetation/sugar_beet_1.jpg
