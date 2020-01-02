@@ -16,7 +16,7 @@ class DiscoveryOfDesign < Sinatra::Base
   end
 
   get '/design_of_the_month' do
-    haml :'design_examples/vegetation/pomegranate_seeds_battery', locals: { title: 'Pomegranate Seeds - Battery' }
+    haml :'design_examples/underwater/octopus_water_leaks', locals: { title: 'Octopus - Water Leaks' }
   end
 
   get '/background' do

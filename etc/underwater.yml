@@ -40,6 +40,9 @@ Lobster - Electronic Sensor:
 Mollusk Shell - Bendable Glass:
   url: mollusk_shell_bendable_glass
   image: images/underwater/mollusk.jpg
+Octopus - Water Leaks:
+  url: octopus_water_leaks
+  image: images/underwater/octopus.jpg
 Pilot Whale - Self-cleaning Ship Hull:
   url: pilot_whale_self_cleaning_ship_hull
   image: images/underwater/whale_1.jpg
