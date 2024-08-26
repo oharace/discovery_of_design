@@ -1,0 +1,9 @@
+# discoveryofdesign
+http://discoveryofdesign.com/* https://discoveryofdesign.com/:splat 301!
+http://www.discoveryofdesign.com/* https://discoveryofdesign.com/:splat 301!
+
+# discoveryofdesign2
+http://discoveryofdesign2.com/* https://discoveryofdesign.com/:splat 301!
+http://www.discoveryofdesign2.com/* https://discoveryofdesign.com/:splat 301!
+https://discoveryofdesign2.com/* https://discoveryofdesign.com/:splat 301!
+https://www.discoveryofdesign2.com/* https://discoveryofdesign.com/:splat 301!
